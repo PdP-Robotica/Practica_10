@@ -1,4 +1,4 @@
-# practica_10
+# Practica_10
 
 ## Integrantes:
   •	Luis Fernando Duarte Reséndiz
